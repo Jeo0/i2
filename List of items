@@ -1,0 +1,4 @@
+# How to read:
+  - If _italicized_, then we are unsure if the item will be brought or not.
+
+- [ ] [Terminal Blocks](https://shopee.ph/TERMINAL-BLOCKS-TB1504-and-TB1506-i.8710520.5302322938)
