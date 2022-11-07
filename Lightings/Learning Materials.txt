@@ -1,0 +1,41 @@
+Ee: math of power injection
+1. https://youtu.be/Jgjdz0Nbswk
+2. https://youtu.be/fKD8I5gTTJo
+3. https://youtu.be/KFtjf5mD6tA
+
+
+
+
+
+Ece: Power injection
+1. https://youtu.be/EcjPR0UlU7U
+2. https://youtu.be/GueWUNYGbPg
+3. https://youtu.be/KFtjf5mD6tA
+
+
+
+
+
+
+
+Cpe: geting started
+1. https://youtu.be/5M24QUVE0iU
+2. https://youtu.be/rxKMqo-waPw
+
+Fastled Library
+https://youtu.be/4Ut4UK7612M
+
+Power 
+https://youtu.be/m7LqbMuVaj4
+
+Powering board
+https://youtu.be/0k9POHZFVi0
+
+Sound sensor
+1. https://youtu.be/RwHGioglbk8
+2. https://youtu.be/PYkzJQhFNlA
+3. https://youtu.be/6fD4e34qF8I
+
+
+12V ARGB (remember na 5V ung iinput sa ARGB, so iba to)
+https://youtu.be/OHl60y8XW-M
