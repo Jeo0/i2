@@ -22,19 +22,23 @@ Ece: Power injection
 
 
 
-// basahin nyo rin ung mga documentation 
+// basahin nyo rin ung mga documentation online, lalo na ung sa mga board ng arduino
 Cpe: geting started
 1. https://youtu.be/5M24QUVE0iU
 2. https://youtu.be/rxKMqo-waPw
 
+
 Fastled Library
 https://youtu.be/4Ut4UK7612M
+
 
 Power 
 https://youtu.be/m7LqbMuVaj4
 
+
 Powering board
 https://youtu.be/0k9POHZFVi0
+
 
 Sound sensor
 1. https://youtu.be/RwHGioglbk8
