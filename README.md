@@ -13,6 +13,9 @@ Refer to the directory structure:
      - Proposed Materials.txt
      - Learning Materials.txt
      - Load Calculation.txt
+  3. Codes
+     - Prototypes/
+     - Final/
   4. Audit
      - Records of time management.xls
      - Records of paid materials.xls
