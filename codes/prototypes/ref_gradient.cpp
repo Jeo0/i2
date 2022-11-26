@@ -1,8 +1,7 @@
 
 #define DATAPIN 13
 #define MAXLEDNO 480
-#define SG1 0
-#define EG1 
+
 
 
 enum Leed{
