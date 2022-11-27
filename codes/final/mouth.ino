@@ -1,7 +1,6 @@
 #include <FastLED.h>
-
-// How many leds in your strip?
-#define NUM_LEDS 6
+#define NUM_LEDS 5
+// final product should be aroudn 57pixels (1.9m)
 
 #define DATA_PIN 13
 #define MIC_PIN 15
